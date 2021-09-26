@@ -1,6 +1,6 @@
 # test2lib
 
-While linking^
+While linking:
 ```
 /usr/bin/ld: /home/boris/work/cpp/tests/test2lib/src-driver/../bin-lib/lib/libtest2.a(mocs_compilation.cpp.o): in function `Base::qt_static_metacall(QObject*, QMetaObject::Call, int, void**)':
 mocs_compilation.cpp:(.text+0x0): multiple definition of `Base::qt_static_metacall(QObject*, QMetaObject::Call, int, void**)'; /home/boris/work/cpp/tests/test2lib/src-driver/../bin-lib/lib/libtest1.a(mocs_compilation.cpp.o):mocs_compilation.cpp:(.text+0x0): first defined here
